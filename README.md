@@ -1,1 +1,1 @@
-# terrafrom-project1
+# terrafrom-exercise 1
